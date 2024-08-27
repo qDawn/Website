@@ -3242,10 +3242,7 @@ input, select, textarea {
 	background-image:  url("../../images/bg.jpg");
 	background-size: fill, fill, 100% height;
 	background-position: 0 0, center, top center;
-	background-repeat: repeat, no-repeat, no-repeat;
-	background-attachment: fixed, fixed, fixed;
-	z-index: -1;
-	animation: scrollBackground 1s linear infinite; /* Adjust timing and repeat style as needed */
+
   }
   
   #wrapper > .bg.fixed {
