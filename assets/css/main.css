@@ -3240,8 +3240,8 @@ input, select, textarea {
 	height: 50%;
 	background-color: #212931;
 	background-image:  url("../../images/bg.jpg");
-	background-size: fill, fill, 100% height;
-	background-position: 0 0, center, top center;
+	background-size: cover;
+	background-position: centre;
 
   }
   
